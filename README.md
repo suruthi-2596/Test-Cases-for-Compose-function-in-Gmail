@@ -7,8 +7,11 @@ It provides detailed, step-by-step instructions to ensure consistency and thorou
 **Each test case includes:**
 
 **Test Case ID:** Unique identifier for each test case.
+
 **Test Case Description:** Brief description of the test case purpose.
+
 **Steps to Execute:** Step-by-step instructions to perform the test.
+
 **Expected Result:** Outcome that confirms the functionality works as intended.
 
 
@@ -19,7 +22,9 @@ actions, and expected outcomes. It helps bridge communication between technical 
 **Each test case follows this format:**
 
 **Test Case ID** A unique identifier for tracking the test case.
+
 **Scenario** A brief description of the functionality being tested.
+
 **Given** The initial context or setup required for the test.
 **When** The action that triggers the behavior being tested.
 **Then** The expected outcome or result after the action is performed.
