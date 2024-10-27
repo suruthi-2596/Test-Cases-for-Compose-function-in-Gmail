@@ -26,5 +26,7 @@ actions, and expected outcomes. It helps bridge communication between technical 
 **Scenario** A brief description of the functionality being tested.
 
 **Given** The initial context or setup required for the test.
+
 **When** The action that triggers the behavior being tested.
+
 **Then** The expected outcome or result after the action is performed.
